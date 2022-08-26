@@ -1,4 +1,4 @@
-In order to blast our sequences and get the closest relatives to the test sequences we created a blast database in the following steps
+In order to blast our sequences and get the homologs we created a blast database in the following steps
 
 1. From the NCBI we obtained all the available sequences for microbiota of Anopheles sinensis to form the refence sequences.
 2. We next combined these sequences into a single FASTA file named `my_reference.fasta` . 
