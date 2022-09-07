@@ -4,7 +4,7 @@ This repo is a Documentation on our Mini-Project, based on reproducing a researc
 
 The project summary is detailed in our [Wiki pages](https://github.com/CyndieKamau/Mini-Project/wiki).
 
-Our project roadmap and progress is recorded in our Projects page.
+Our project roadmap and progress is recorded in our [Projects page](https://github.com/users/CyndieKamau/projects/2).
 
 Team:
 
